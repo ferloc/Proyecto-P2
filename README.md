@@ -4,3 +4,8 @@
 El enfoque se centró en la selección de características relevantes, escalado de datos y el ajuste de hiperparámetros para maximizar la precisión del modelo. Después de comparar los resultados, el modelo de **Gradient Boosting** fue el que mostró un mejor desempeño, destacándose en términos de **exactitud** y **F1-score**.
 
 Este proyecto no solo me permitió profundizar en técnicas de aprendizaje automático, sino también mejorar mis habilidades en el manejo de datos y la interpretación de resultados. ¡Gracias por ver mi trabajo!
+
+
+
+- [Reporte en formato HTML](P_P2_641675.html)
+- [Reporte en formato ipynb](P_P2_641675.ipynb)
